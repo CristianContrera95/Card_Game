@@ -1,4 +1,4 @@
-# README
+# Card Game
 
 ### Alumno: Contrera Cristian.
 
